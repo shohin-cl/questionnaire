@@ -2,8 +2,8 @@ from stringprep import in_table_c21
 import streamlit as st
 import pandas as pd
 
-st.title('Барои синфи 9. Тести "Ба ман писанд аст" Супордани тест')
-st.title('Дар зарфи 5 дақиқа аз санҷиш гузашта, соҳибӣ касби мувофиқ шавед')
+st.title('Барои синфи 9. Тести "Ба ман писанд аст"')
+st.subheader('Дар зарфи 5 дақиқа аз санҷиш гузашта, соҳибӣ касби мувофиқ шавед')
 
 
 choice = []
