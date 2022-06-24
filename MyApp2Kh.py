@@ -2,7 +2,7 @@ from stringprep import in_table_c21
 import streamlit as st
 import pandas as pd
 
-st.title('Саволнома роҳнамои касбӣ')
+st.title('Барои синфи 9. Тести "Ба ман писанд аст" Супордани тест')
 st.title('Дар зарфи 5 дақиқа аз санҷиш гузашта, соҳибӣ касби мувофиқ шавед')
 
 
