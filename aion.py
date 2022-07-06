@@ -408,9 +408,9 @@ score = q1 + q2 + q3 + q4 + q5 + q6 + q7 + q8 + q9 + q10 + q11 + q12 + q13 + q14
 
 if score < 17:
     ans = "Вы Чингизхан"
-elif score > 17 and score < 35:
+elif score > 17 and score < 36:
     ans = 'Вы Тесла'
-elif score > 35 and score < 52:
+elif score > 36 and score < 52:
     ans = 'Вы Илон Маск'
 elif score > 52 and score < 80:
     ans = 'Вы Рокфеллер'
