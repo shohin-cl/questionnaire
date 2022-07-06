@@ -410,7 +410,7 @@ if score < 17:
     ans = "Вы Чингизхан"
 elif score > 17 and score < 35:
     ans = 'Вы Тесла'
-elif score > 36 and score < 52:
+elif score > 35 and score < 52:
     ans = 'Вы Илон Маск'
 elif score > 52 and score < 80:
     ans = 'Вы Рокфеллер'
